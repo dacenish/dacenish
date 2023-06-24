@@ -1,7 +1,9 @@
 <h1 align="center">Howdy 👋, I'm Danish Zia</h1>
 <h3 align="center">I am on a voyage through a sea of data. 🌊</h3>
 
-<img align="right" alt="Coding" width="400" src=" <img align="right" alt="Coding" width="400" src="https://example.com/your-image.jpg">">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?id=1vRhJimmOoOjmkfL_-cWkM59vwEzfHbHg">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dacenish&label=Profile%20views&color=0e75b6&style=flat" alt="dacenish" /> </p>
 
