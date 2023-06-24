@@ -32,4 +32,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dacenish&" alt="dacenish" /></p>
 
-![image](https://github.com/dacenish/dacenish/assets/82972335/e1d9f6b3-cc69-48b8-ae6a-294496045b0a)
