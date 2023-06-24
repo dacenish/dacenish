@@ -3,8 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?id=1vRhJimmOoOjmkfL_-cWkM59vwEzfHbHg">
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dacenish&label=Profile%20views&color=0e75b6&style=flat" alt="dacenish" /> </p>
 
 - 🔭 I am currently striving and thriving in **Data Science domain.**
@@ -34,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dacenish&" alt="dacenish" /></p>
 
-![image](https://github.com/dacenish/dacenish/assets/82972335/6f6774c9-75ce-4cf1-9ff0-d505778e248f)
+![image](https://github.com/dacenish/dacenish/assets/82972335/e1d9f6b3-cc69-48b8-ae6a-294496045b0a)
