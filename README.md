@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science project.**
 
-- 💬 Ask me about **Poetry and Programming.**
+- 💼 Want to have look of my portfolio [https://www.datascienceportfol.io/dacenish]
 
 - 📫 How to reach me **danishziaprofessional@gmail.com**
 
