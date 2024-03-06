@@ -9,15 +9,15 @@
 
 - 🔭 I am currently striving and thriving in **Data Science domain.**
 
-- 🌱 I’m currently learning **Visualisation Tool.**
+- 🌱 I’m currently learning **Deep Learning.**
 
 - 👯 I’m looking to collaborate on **Data Science project.**
 
-- 💼 Want to have a look at my portfolio https://www.datascienceportfol.io/dacenish
+- 💼 Look at my portfolio https://www.datascienceportfol.io/danishziasiddique
 
 - 📫 How to reach me **danishziaprofessional@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/danishzia1/](https://www.linkedin.com/in/danishzia1/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/danishzia1/](https://www.linkedin.com/in/danishziasiddique/)
 
 - ⚡ Fun fact **I read books.**
 
@@ -28,7 +28,7 @@
 <a href="https://www.kaggle.com/danishzia11" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" alt="danishzia11" height="30" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/danishzia1/" target="blank">
+<a href="https://www.linkedin.com/in/danishziasiddique/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="danishzia1" height="30" width="40" />
 </a>
 
