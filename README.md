@@ -1,25 +1,25 @@
-<h1 align="center">Howdy 👋, I'm Danish Zia</h1>
-<h3 align="center">I am on a voyage through a sea of data. 🌊</h3>
+<h1 align="center">Howdy! 👋 I'm Danish Zia</h1>
+<h3 align="center">Embarking on an adventure through a sea of data. 🌊</h3>
 
 <img align="right" alt="Coding" width="300" src="https://drive.google.com/uc?id=1vRhJimmOoOjmkfL_-cWkM59vwEzfHbHg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dacenish&label=Profile%20views&color=0e75b6&style=flat" alt="dacenish" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dacenish&label=Profile%20waves&color=0e75b6&style=flat" alt="dacenish" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 Currently navigating and exploring the **Data Science realm.**
 
-- 🔭 I am currently striving and thriving in **Data Science domain.**
+- 🌱 Learning the secrets of **Deep Learning.**
 
-- 🌱 I’m currently learning **Deep Learning.**
+- 👯 Open to join forces on **Data Science escapades.**
 
-- 👯 I’m looking to collaborate on **Data Science project.**
+- 💼 Check out my treasure trove of projects at [My Portfolio](https://www.datascienceportfol.io/danishziasiddique)
 
-- 💼 Look at my portfolio https://www.datascienceportfol.io/danishziasiddique
+- 📫 Drop a message in a bottle at **danishziaprofessional@gmail.com**
 
-- 📫 How to reach me **danishziaprofessional@gmail.com**
+- 📄 Dive into my adventures on [LinkedIn](https://www.linkedin.com/in/danishzia1/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/danishzia1/](https://www.linkedin.com/in/danishziasiddique/)
+- ⚡ Fun fact: **I journey through realms both digital and literary; books are my compass.**
 
-- ⚡ Fun fact **I read books.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
