@@ -1,5 +1,5 @@
 <h1 align="center">Howdy! 👋 I'm Danish Zia</h1>
-<h3 align="center">Embarking on an adventure through a sea of data. 🌊</h3>
+<h3 align="center">Embarking on an adventure through a sea of GENAI. 🌊</h3>
 
 <img align="right" alt="Coding" width="300" src="https://drive.google.com/uc?id=1vRhJimmOoOjmkfL_-cWkM59vwEzfHbHg">
 
@@ -7,7 +7,7 @@
 
 - 🔭 Currently navigating and exploring the **Data Science realm.**
 
-- 🌱 Learning the secrets of **Deep Learning.**
+- 🌱 Learning the secrets of **GenAI**
 
 - 👯 Open to join forces on **Data Science escapades.**
 
@@ -15,7 +15,7 @@
 
 - 📫 Drop a message in a bottle at **danishziaprofessional@gmail.com**
 
-- 📄 Dive into my adventures on [LinkedIn](https://www.linkedin.com/in/danishzia1/)
+- 📄 Dive into my adventures on [LinkedIn](https://www.linkedin.com/in/danishziasiddique/)
 
 - ⚡ Fun fact: **I journey through realms both digital and literary; books are my compass.**
 
